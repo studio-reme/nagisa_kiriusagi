@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://kiriusagi-ngs.example.com/sitemap.xml
+
+# クロール速度の調整（オプション）
+Crawl-delay: 1
+
+# 特定のファイルやディレクトリを除外（必要に応じて）
+# Disallow: /assets/
+# Disallow: /.vscode/
